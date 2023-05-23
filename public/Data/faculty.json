@@ -1,0 +1,58 @@
+{
+    "faculty": [
+        {
+            "img": "/image/P1.jpg",
+            "name": "Prof. Amit Garg",
+            "position": "Associate Professor",
+            "x": "● B.Sc(H) Electronics , Hansraj College,Delhi-110007",
+            "y": "●M.Sc Electronics Science, UDSC, New Delhi",
+            "z": "●B.Sc(H) Electronics , Hansraj College,Delhi-110007",
+            "profileLink":"https://www.andcollege.du.ac.in/uploads/departments/Electronics/2_Dr.%20Amit%20Garg.pdf"
+        },
+        {
+            "img": "/image/P1.jpg",
+            "name": "Vishal Dhingra",
+            "position": "Professor",
+            "x": "● B.Sc(H) Electronics , Hansraj College,Delhi-110007",
+            "y": "●M.Sc Electronics Science, UDSC, New Delhi",
+            "z": "●B.Sc(H) Electronics , Hansraj College,Delhi-110007",
+            "profileLink":"https://www.google.com"
+        },
+        {
+            "img": "/image/P1.jpg",
+            "name": "Prof. Anju Agrawal",
+            "position": "Professor",
+            "x": "● B.Sc(H) Electronics , Hansraj College,Delhi-110007",
+            "y": "●M.Sc Electronics Science, UDSC, New Delhi",
+            "z": "●Ph.D Electronics Science, UDSC, New Delhi",
+            "profileLink":"https://www.andcollege.du.ac.in/uploads/departments/Electronics/Faculty_Proforma_Anju.pdf"
+        },
+        {
+            "img": "/image/P1.jpg",
+            "name": "Dr. Ravneet kaur",
+            "position": "Assistant Professor",
+            "x": "● B.Sc(H) Electronics , ARSD College,Dhaula kuan",
+            "y": "●M.Sc Electronics Science, UDSC, New Delhi",
+            "z": "●Ph.D Electronics Science, UDSC, New Delhi",
+            "profileLink":"https://www.andcollege.du.ac.in/uploads/departments/Electronics/4_Dr.%20Ravneet_CV.pdf"
+        },
+        {
+            "img": "/image/P1.jpg",
+            "name": "Ms. Gauri Ghai",
+            "position": "Assistant Professor",
+            "x": "● B.Sc(H) Electronics , sri Vankateswara College,University of Delhi",
+            "y": "●M.Sc Electronics Science, UDSC, New Delhi",
+            "z": "",
+            "profileLink":"https://www.andcollege.du.ac.in/uploads/departments/Electronics/6_Ms.%20Gauri.pdf"
+        },
+        {
+            "img": "/image/P1.jpg",
+            "name": "Dr. Monika",
+            "position": "Assistant Professor",
+            "x": "● B.Sc(H) Electronics , Hansraj College,Delhi-110007",
+            "y": "●M.Sc Electronics Science, UDSC, New Delhi",
+            "z": "●Ph.D Electronics Science, UDSC, New Delhi",
+            "profileLink":"https://www.andcollege.du.ac.in/uploads/departments/Electronics/8_Dr.%20Monika.pdf"
+        }
+    ]
+}

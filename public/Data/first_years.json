@@ -1,0 +1,284 @@
+{
+  "student": [
+    {
+      "_id": "645687d9480b97569d34ddf2",
+      "name": "Abhinav Saxena",
+      "roll": "AE-401",
+      "number": "8081542031",
+      "email": "abhinav.saxena.2003@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957039/first%20year%20students/abhinav_wsku13.jpg"
+    },
+    {
+      "_id": "6455fbb41fc1524cff8b6674",
+      "name": "Akhil kr. Bharti",
+      "roll": "AE-402",
+      "number": "9576797131",
+      "email": "akhilbharti210@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957008/first%20year%20students/akhil_qvaue3.jpg"
+    },
+    {
+      "_id": "64574d1bb70e987eeaf86ebc",
+      "name": "Aniket Kumar",
+      "roll": "AE-403",
+      "number": "9431253540",
+      "email": "aniketkumarbharti2004@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957008/first%20year%20students/aniket_bqxhor.jpg"
+    },
+    {
+      "_id": "6457247e0ef0851aef60e702",
+      "name": "Anjali",
+      "roll": "AE-404",
+      "number": "8595505570",
+      "email": "anjalirao0411@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957008/first%20year%20students/anjali_odwzkq.jpg"
+    },
+    {
+      "_id": "6455fcdb1fc1524cff8b667a",
+      "name": "Ankush Barde",
+      "roll": "AE-405",
+      "number": "8103469557",
+      "email": "ankushbarde582@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957009/first%20year%20students/ankush_zge4ub.jpg"
+    },
+    {
+      "_id": "64565b01662f0074604669b4",
+      "name": "Arpit",
+      "roll": "AE-406",
+      "number": "7905333262",
+      "email": "chandraarpit100@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957009/first%20year%20students/arpit_ureixh.jpg"
+    },
+    {
+      "_id": "6455fdbd1fc1524cff8b6682",
+      "name": "Avneesh Kr. Shukla",
+      "roll": "AE-409",
+      "number": "8115540227",
+      "email": "avne0057sh@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957009/first%20year%20students/avneesh_vyi4rf.jpg"
+    },
+    {
+      "_id": "64565aa5662f0074604669b2",
+      "name": "Ayush Nagrath ",
+      "roll": "AE-410",
+      "number": "9311463968",
+      "email": "nagrathayush2003@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957009/first%20year%20students/ayush1_lymxtf.jpg"
+    },
+    {
+      "_id": "6455f8aa1fc1524cff8b6664",
+      "name": "Ayush Thakur",
+      "roll": "AE-411",
+      "number": "96500119979",
+      "email": "thakur.ayush2468@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957009/first%20year%20students/ayush_bks3hx.jpg"
+    },
+    {
+      "_id": "6458b15b8f42315d5e551f9e",
+      "name": "Charu",
+      "roll": "AE-412",
+      "number": "8368514163",
+      "email": "mehracharu19@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683968505/first%20year%20students/charu_sfy2k5_rpx5gj.jpg"
+    },
+    {
+      "_id": "6455fe0f1fc1524cff8b6684",
+      "name": "Drishti",
+      "roll": "AE-414",
+      "number": "9870341420",
+      "email": "a9325401@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957009/first%20year%20students/drishti_hnnhj7.jpg"
+    },
+    {
+      "_id": "645687b0480b97569d34ddf0",
+      "name": "Govind kushwaha",
+      "roll": "AE-415",
+      "number": "8595740291",
+      "email": "govindkush004@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957010/first%20year%20students/govind_ngsjwe.jpg"
+    },{
+      "_id": "6455fd771fc1524cff8b6680",
+      "name": "Harsh Singh",
+      "roll": "AE-416",
+      "number": "8920544478",
+      "email": "harshsingh00105@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957010/first%20year%20students/harsh_lmtrzf.jpg"
+    },
+    {
+      "_id": "6455fa151fc1524cff8b666e",
+      "name": "Jugantar Sensua",
+      "roll": "AE-417",
+      "number": "6001986567",
+      "email": "dr.jetronics@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957010/first%20year%20students/jugantar_f35xyj.png"
+    },
+    {
+      "_id": "6455f9d31fc1524cff8b666c",
+      "name": "Kaushal Kumar",
+      "roll": "AE-418",
+      "number": "9928945521",
+      "email": "kaushalks13579@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957010/first%20year%20students/kaushal_icroyl.jpg"
+    },
+    {
+      "_id": "64561391d30ee368999fd349",
+      "name": "Mukesh Jha",
+      "roll": "AE-420",
+      "number": "9821535603",
+      "email": "jhamk9148@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957010/first%20year%20students/mukesh_l8iijl.jpg"
+    },
+    {
+      "_id": "645722b60ef0851aef60e700",
+      "name": "Naman Thapliyal",
+      "roll": "AE-421",
+      "number": "9811955156",
+      "email": "Namanthapliyal03@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957010/first%20year%20students/naman_cdtjat.jpg"
+    },
+    {
+      "_id": "6456135dd30ee368999fd347",
+      "name": "Nikhil",
+      "roll": "AE-422",
+      "number": "8000866767",
+      "email": "nkv7374@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957010/first%20year%20students/nikhil_zwd8xs.jpg"
+    },
+    {
+      "_id": "645671523cf90f645c2d4cc8",
+      "name": "Nitesh kulkarni",
+      "roll": "AE-423",
+      "number": "7075343769",
+      "email": "niteshkulkarni1903@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957010/first%20year%20students/nitesh_iksjmj.jpg"
+    },
+    {
+      "_id": "645727650ef0851aef60e704",
+      "name": "Pankaj Kumar",
+      "roll": "AE-424",
+      "number": "7827381861",
+      "email": "pankajkr1220@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957011/first%20year%20students/pankaj_mdu4xo.jpg"
+    },
+    {
+      "_id": "6455f9501fc1524cff8b6668",
+      "name": "Ranjeet Anand",
+      "roll": "AE-425",
+      "number": "8797155365",
+      "email": "iranjeet285@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957011/first%20year%20students/ranjeet_fzmiic.jpg"
+    },
+    {
+      "_id": "6455fc441fc1524cff8b6678",
+      "name": "Rashi Phogat",
+      "roll": "AE-426",
+      "number": "9311595923",
+      "email": "rashiphogat15@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957011/first%20year%20students/rashi_ko2kj5.jpg"
+    },
+    {
+      "_id": "645672fb3cf90f645c2d4cca",
+      "name": "Shailesh Singh",
+      "roll": "AE-428",
+      "number": "8957117517",
+      "email": "rajshaileshsingh@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957011/first%20year%20students/shailesh_usyzwi.png"
+    },
+    {
+      "_id": "6455f99b1fc1524cff8b666a",
+      "name": "Shivam Yadav",
+      "roll": "AE-429",
+      "number": "9315232438",
+      "email": "shivamyadav2845@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957011/first%20year%20students/shivam_mra5bj.jpg"
+    },
+    {
+      "_id": "6455f7df1fc1524cff8b6660",
+      "name": "Siddharth Kumar",
+      "roll": "AE-430",
+      "number": "7370090266",
+      "email": "shivamsiddharth7370090266@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957011/first%20year%20students/siddharth_c7kjtq.jpg"
+    },
+    {
+      "_id": "6458ab158f42315d5e551f98",
+      "name": "Sneha Singh",
+      "roll": "AE-431",
+      "number": "9871991450",
+      "email": "snehasingh4724@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957011/first%20year%20students/sneha_rfsxe4.jpg"
+    },
+    {
+      "_id": "64560855796e45693c04db75",
+      "name": "Sumit shukla ",
+      "roll": "AE-432",
+      "number": "8009741308",
+      "email": "gsshukla4447@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957011/first%20year%20students/sumit_rav7ml.jpg"
+    },
+    {
+      "_id": "64560d9ed49af5b23c5e785c",
+      "name": "Tanmay Sharma",
+      "roll": "AE-433",
+      "number": "8386022935",
+      "email": "sharmatanmay201@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957011/first%20year%20students/tanmay_guwhhw.jpg"
+    },
+    {
+      "_id": "64560e87d49af5b23c5e785e",
+      "name": "Tarun",
+      "roll": "AE-434",
+      "number": "8799708304",
+      "email": "tarunsharmat456@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957012/first%20year%20students/tarunSingh_c308ql.jpg"
+    },
+    {
+      "_id": "6455f9151fc1524cff8b6666",
+      "name": "Tarun Singh Mehta ",
+      "roll": "AE-435",
+      "number": "7668341912",
+      "email": "tarunsinghmj523@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957013/first%20year%20students/tarun_mlgxom.jpg"
+    },
+    {
+      "_id": "64566f983cf90f645c2d4cc6",
+      "name": "Utkarsh Bajpai",
+      "roll": "AE-436",
+      "number": "9992500993",
+      "email": "utkarshbajpai736@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957012/first%20year%20students/utkarsh_t3hhep.jpg"
+    },
+    {
+      "_id": "6455fd401fc1524cff8b667e",
+      "name": "Vansh ",
+      "roll": "AE-437",
+      "number": "9899703017",
+      "email": "vanshsaxena206@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957012/first%20year%20students/vansh_ija8cn.jpg"
+    },
+    {
+      "_id": "6456880b480b97569d34ddf4",
+      "name": "Yash kumar",
+      "roll": "AE-440",
+      "number": "8222995100",
+      "email": "yashbhardwaj5100@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957012/first%20year%20students/yash_authlu.jpg"
+    },
+    {
+      "_id": "6455f8711fc1524cff8b6662",
+      "name": "Yogesh Ahirwar",
+      "roll": "AE-441",
+      "number": "9691037195",
+      "email": "yogeshAhirwar603@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957012/first%20year%20students/yogesh_z19mzq.jpg"
+    },
+    
+    {
+      "_id": "6458bc7b324958d1004811ce",
+      "name": "Anuj Kumar Tiwari",
+      "roll": "AE-442",
+      "number": "8409126303",
+      "email": "tiwarianujkumar57@gmail.com",
+      "photo": "https://res.cloudinary.com/dasuumgyw/image/upload/v1683957008/first%20year%20students/anuj_efuvjo.jpg"
+    }
+  ]
+}
