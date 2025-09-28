@@ -2,7 +2,6 @@ import Head from 'next/head'
 import Link from 'next/link'
 import { useState } from 'react';
 import { useFormik } from 'formik';
-import { registerValidate } from '../lib/validate'
 import { useRouter } from 'next/router';
 
 export default function Register(){
@@ -16,8 +15,6 @@ export default function Register(){
             password: '',
             cpassword: ''
         },
-        validate: registerValidate,
-        onSubmit
     })
 
     async function onSubmit(values){
